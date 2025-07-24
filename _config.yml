@@ -1,7 +1,7 @@
 title: Saepul Hilal
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <div style="text-align: justify;">
-    <img src="/images/profile300.png?raw=true" alt="Foto Profil" style="width:240px; height:240px; object-fit:cover; object-position: 50% 60%; border-radius:50%; display:block; margin:20px 0;">
+    <img src="/images/profile300.png?raw=true" alt="Foto Profil" style="width:240px; height:240px; object-fit:cover; object-position: 50% 5%; border-radius:50%; display:block; margin:20px 0;">
     <br>
     Data Scientist with 1+ years of professional experience in analytics, machine learning, and AI Development. Bachelor’s degree in Information Systems from University Ary Ginanjar. Currently delivering business impact at Mediawave Interaktif through political analytics, media sentiment modeling, LLM prompt optimization, and nutrition recommendation projects. 
     <br><br>
