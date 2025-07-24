@@ -2,12 +2,14 @@ title: Saepul Hilal
 <img src="/images/IMG_5415.JPG?raw=true" alt="Foto Profil" style="width:240px; height:240px; object-fit:cover; border-radius:50%; display:block; margin:20px 0;">
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  Data Scientist with 1+ year 
+  Data Scientist with 1+ years of professional experience in analytics, machine learning, and AI Development. Bachelor’s degree in Information Systems from University Ary Ginanjar. Currently delivering business impact at Mediawave Interaktif through political analytics, media sentiment modeling, LLM prompt optimization, and nutrition recommendation projects. 
+  <br><br>
+  Graduated with distinction from University Ary Ginanjar (GPA 3.67/4.00) and achieved a 91% score in Hacktiv8 Data Science Bootcamp.
   <br><br>
   <a href="https://www.linkedin.com/in/saepul-hilal/">View my LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-JBY55YSQ77 # your Google Analytics tracking ID here
 
 colors:
   crimson: '#900C3F'
