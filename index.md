@@ -1,6 +1,20 @@
 # Projects
 ---
+## NLP
+---
+### Finetune Qwen3 (Prompt Enhanced)
+mantap
+
+---
+### Sentiment Analysis
+mantap kalii
+
+---
 ## Computer Vision
+---
+### Lobster Size Detection
+mantap
+
 ---
 ### Monkeypox Detection  
 The Monkeypox detection project using the Sequential model based on EfficientNetV2B0 achieved a 
