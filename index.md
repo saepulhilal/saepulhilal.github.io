@@ -2,7 +2,7 @@
 ---
 ## Computer Vision
 ---
-### - Monkeypox Detection  
+### Monkeypox Detection  
 The Monkeypox detection project using the Sequential model based on EfficientNetV2B0 achieved a 
 remarkable success rate. After training for 30 epochs, the model showed validation accuracy reaching 80%, 
 with the main focus on Monkeypox detection which was very satisfactory, achieved with a recall of 90%. In 
@@ -20,7 +20,7 @@ detection via deep learning.
 ---
 ## Machine Learning
 ---
-### - Airline Ticket Predictions
+### Airline Ticket Predictions
 In the project of analyzing and predicting airline ticket prices using data from Ease My Trip, we chose the 
 RandomForestRegressor model which provides optimal performance with a high R2 Score (0.9585 on training 
 data and 0.9555 on test data). With selected features such as "days_left" as dominant factors, the model 
@@ -33,7 +33,7 @@ solution for prospective passengers who want to plan their travel wisely.
 [View Documentation](https://github.com/saepulhilal/Airline-Ticket-Predictions)
 
 ---
-### - Customer Shopping Trends
+### Customer Shopping Trends
 
 Increasing the rating to achieve a customer retention rate of 90% by improving member services, discounts, 
 payment methods and delivery options. This can increase company revenue and this program will run for the 
