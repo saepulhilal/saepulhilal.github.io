@@ -13,7 +13,18 @@ mantap kalii
 ## Computer Vision
 ---
 ### Lobster Size Detection
-mantap
+This project was created to help lobster farming businesses, especially in simplifying the process of transferring lobsters to ponds of the same size. With this system, users can detect and measure the length of lobsters in real-time using only a camera and a Python-based application.
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/ultralytics-black?logo=ultralytics)](#) [![](https://img.shields.io/badge/roboflow-black?logo=roboflow)](#)
+
+result of training:
+
+<p align="center">
+  <img src="https://github.com/saepulhilal/Lobster-Size-Detection/blob/main/runs/segment/train/results.png" style="width=400px;"/><br>
+  <i>Example of lobster size detection and estimation results</i>
+</p>
+
+[View Documentation](https://github.com/saepulhilal/Lobster-Size-Detection/tree/main)
 
 ---
 ### Monkeypox Detection  
@@ -27,7 +38,7 @@ reached a level of perfection in readiness for further development. With these e
 Monkeypox detection project can be considered an almost perfect implementation in the domain of disease 
 detection via deep learning.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Scipy-white?logo=Scipy)](#) [![](https://img.shields.io/badge/Scikit-learn-white?logo=Scikit-learn)](#) [![](https://img.shields.io/badge/tensorflow-white?logo=tensorflow)](#)
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-black?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-black?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-black?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Scipy-black?logo=Scipy)](#) [![](https://img.shields.io/badge/Scikit-learn-black?logo=Scikit-learn)](#) [![](https://img.shields.io/badge/tensorflow-black?logo=tensorflow)](#)
 
 [View Documentation](https://github.com/saepulhilal/Monkeypox-Detection)
 
@@ -42,7 +53,7 @@ produces accurate ticket price predictions. Evaluation results show low Average 
 Squared Error, Root Mean Squared Error, and Mean Absolute Percentage Error metrics, providing a valuable 
 solution for prospective passengers who want to plan their travel wisely. 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Scipy-white?logo=Scipy)](#) [![](https://img.shields.io/badge/Scikit-learn-white?logo=Scikit-learn)](#)
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-black?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-black?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-black?logo=Matplotlib)](#) [![](https://img.shields.io/badge/Scipy-black?logo=Scipy)](#) [![](https://img.shields.io/badge/Scikit-learn-black?logo=Scikit-learn)](#)
 
 [View Documentation](https://github.com/saepulhilal/Airline-Ticket-Predictions)
 
@@ -53,6 +64,6 @@ Increasing the rating to achieve a customer retention rate of 90% by improving m
 payment methods and delivery options. This can increase company revenue and this program will run for the 
 next 6 months 
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-white?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-white?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=Matplotlib)](#)
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/Pandas-black?logo=Pandas)](#) [![](https://img.shields.io/badge/numpy-black?logo=numpy)](#) [![](https://img.shields.io/badge/seaborn-black?logo=seaborn)](#) [![](https://img.shields.io/badge/Matplotlib-black?logo=Matplotlib)](#)
 
 [View Documentation](https://github.com/saepulhilal/customer-shopping-trends)
