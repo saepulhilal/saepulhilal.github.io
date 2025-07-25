@@ -2,7 +2,7 @@
 ---
 ## NLP
 ---
-### Finetune Qwen3 (Prompt Enhanced)
+### Enhanced Prompt
 mantap
 
 ---
