@@ -1,13 +1,14 @@
 # Projects
 ---
-## NLP
----
-### Enhanced Prompt
-mantap
+## LLM
 
 ---
-### Sentiment Analysis
-mantap kalii
+### Retrieval Augmented Generation (RAG)
+I created a Retrieval-Augmented Generation (RAG) system based on LangChain, LangGraph, and Google Gemini, which is able to intelligently answer questions by accessing and understanding the contents of external documents such as PDFs or web pages. The system combines semantic search and LLM techniques to generate relevant and concise answers based on uploaded data. Suitable for report analysis, legal assistance, and document-based information retrieval.
+
+[![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/langchain-black?logo=langchain)](#) [![](https://img.shields.io/badge/langgraph-black?logo=langgraph)](#) [![](https://img.shields.io/badge/googlegemini-black?logo=googlegemini)](#)
+
+[View Documentation](https://github.com/saepulhilal/Retrieval-Augmented-Generation)
 
 ---
 ## Computer Vision
