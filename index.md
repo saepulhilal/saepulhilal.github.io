@@ -18,13 +18,6 @@ This project was created to help lobster farming businesses, especially in simpl
 
 [![](https://img.shields.io/badge/Python-black?logo=Python)](#) [![](https://img.shields.io/badge/ultralytics-black?logo=ultralytics)](#) [![](https://img.shields.io/badge/roboflow-black?logo=roboflow)](#)
 
-result of training:
-
-<p align="center">
-  <img src="https://github.com/saepulhilal/Lobster-Size-Detection/blob/main/runs/segment/train/results.png" style="width=400px;"/><br>
-  <i>Example of lobster size detection and estimation results</i>
-</p>
-
 [View Documentation](https://github.com/saepulhilal/Lobster-Size-Detection/tree/main)
 
 ---
